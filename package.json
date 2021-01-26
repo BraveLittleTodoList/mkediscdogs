@@ -1,0 +1,16 @@
+{
+  "name": "mkeddwebsite",
+  "version": "1.0.0",
+  "description": "MKE Disc Dogs Website",
+  "main": "home.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Han",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
