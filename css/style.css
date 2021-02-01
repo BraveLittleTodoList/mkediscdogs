@@ -16,3 +16,14 @@ body {
 .carousel {
 	border: solid #858f9b;
 }
+
+.site-footer {
+    padding: 20px 0;
+    margin-top: 20px;
+    background-color: #525252;
+    color: #e5e5e5;
+}
+
+.site-footer i {
+    color: #e5e5e5;
+}
