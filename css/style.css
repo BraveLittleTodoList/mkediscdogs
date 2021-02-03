@@ -27,3 +27,7 @@ body {
 .site-footer i {
     color: #e5e5e5;
 }
+
+#groupPhoto {
+	width: 70%;
+}
