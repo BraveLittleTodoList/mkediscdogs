@@ -28,6 +28,25 @@ body {
     color: #e5e5e5;
 }
 
+.card-header {
+	background-color: #23374d;
+	color: #e5e5e5;
+}
+
+.img-thumbnail {
+	border: none;
+}
+
+.jumboImg{
+	width: 300px;
+	height: auto;
+}
+
+#cardBtn {
+	background-color: #23374d;
+	color: #e5e5e5;
+}
+
 #groupPhoto {
 	width: 70%;
 }
