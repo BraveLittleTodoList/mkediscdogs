@@ -1,0 +1,57 @@
+$color-primary:  #23374d;
+$color-mid: #858f9b;
+$color-light: #d9dadc;
+$color-gray: #e5e5e5;
+
+body {
+	font-family: "Open Sans", sans-serif;
+}
+
+.jumbotron {
+	background-image: linear-gradient(to right, $color-primary, $color-mid, $color-light);
+	color: white;
+	margin: 0;
+	padding: 40px;
+}
+
+.navbar {
+	background-color: $color-gray;
+}
+
+.carousel {
+	border: solid #858f9b;
+}
+
+.site-footer {
+    padding: 20px 0;
+    margin-top: 20px;
+    background-color: #525252;
+    color: $color-gray;
+}
+
+.site-footer i {
+    color: #e5e5e5;
+}
+
+.card-header {
+	background-color: $color-primary;
+	color: $color-gray;
+}
+
+.img-thumbnail {
+	border: none;
+}
+
+.jumboImg{
+	width: 300px;
+	height: auto;
+}
+
+#cardBtn {
+	background-color: $color-primary;
+	color: $color-gray;
+}
+
+#groupPhoto {
+	width: 70%;
+}
