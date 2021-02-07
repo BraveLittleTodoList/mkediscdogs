@@ -1,4 +1,4 @@
-$color-primary:  #23374d;
+$color-primary: #23374d;
 $color-mid: #858f9b;
 $color-light: #d9dadc;
 $color-gray: #e5e5e5;
@@ -23,14 +23,14 @@ body {
 }
 
 .site-footer {
-    padding: 20px 0;
-    margin-top: 20px;
-    background-color: #525252;
-    color: $color-gray;
+	padding: 20px 0;
+	margin-top: 20px;
+	background-color: #525252;
+	color: $color-gray;
 }
 
 .site-footer i {
-    color: #e5e5e5;
+	color: #e5e5e5;
 }
 
 .card-header {
@@ -42,7 +42,7 @@ body {
 	border: none;
 }
 
-.jumboImg{
+.jumboImg {
 	width: 300px;
 	height: auto;
 }

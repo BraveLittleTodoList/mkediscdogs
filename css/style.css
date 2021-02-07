@@ -1,52 +1,41 @@
 body {
-	font-family: "Open Sans", sans-serif;
-}
+  font-family: "Open Sans", sans-serif; }
 
 .jumbotron {
-	background-image: linear-gradient(to right, #23374d, #858f9b, #d9dadc);
-	color: white;
-	margin: 0;
-	padding: 40px;
-}
+  background-image: linear-gradient(to right, #23374d, #858f9b, #d9dadc);
+  color: white;
+  margin: 0;
+  padding: 40px; }
 
 .navbar {
-	background-color: #e5e5e5;
-}
+  background-color: #e5e5e5; }
 
 .carousel {
-	border: solid #858f9b;
-}
+  border: solid #858f9b; }
 
 .site-footer {
-    padding: 20px 0;
-    margin-top: 20px;
-    background-color: #525252;
-    color: #e5e5e5;
-}
+  padding: 20px 0;
+  margin-top: 20px;
+  background-color: #525252;
+  color: #e5e5e5; }
 
 .site-footer i {
-    color: #e5e5e5;
-}
+  color: #e5e5e5; }
 
 .card-header {
-	background-color: #23374d;
-	color: #e5e5e5;
-}
+  background-color: #23374d;
+  color: #e5e5e5; }
 
 .img-thumbnail {
-	border: none;
-}
+  border: none; }
 
-.jumboImg{
-	width: 300px;
-	height: auto;
-}
+.jumboImg {
+  width: 300px;
+  height: auto; }
 
 #cardBtn {
-	background-color: #23374d;
-	color: #e5e5e5;
-}
+  background-color: #23374d;
+  color: #e5e5e5; }
 
 #groupPhoto {
-	width: 70%;
-}
+  width: 70%; }
