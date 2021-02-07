@@ -2,7 +2,7 @@ body {
   font-family: "Open Sans", sans-serif; }
 
 .jumbotron {
-  background-image: linear-gradient(to right, #23374d, #858f9b, #d9dadc);
+  background-image: linear-gradient(#23374d, #858f9b);
   color: white;
   margin: 0;
   padding: 40px; }
