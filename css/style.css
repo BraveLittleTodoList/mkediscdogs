@@ -38,4 +38,5 @@ body {
   color: #e5e5e5; }
 
 #groupPhoto {
-  width: 70%; }
+  width: 500px;
+  height: auto; }
